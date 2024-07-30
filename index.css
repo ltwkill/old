@@ -1,0 +1,65 @@
+
+
+#lyrow .one { 
+    font-weight:900;
+    font-size:26px;
+    justify-content:center;
+    display:flex !important;
+    border:rgba(34, 255, 0, 1) dashed 3px;
+    outline:rgb(255, 117, 4) solid 18px;
+    border-radius:768px 768px 768px 768px;
+    border-bottom:rgba(255, 111, 0, 1) none 12px !important;
+    transition-timing-function:linear;
+    transition-duration:3s;
+    transition-delay:3s;
+    transition-property:all; 
+} 
+#lyrow .two {
+text-align: center;
+vertical-align: middle;
+}
+#lyrow .three {
+font-weight: bolder;
+color: rgb(93, 255, 166);
+justify-content: center;
+display: flex !important;
+font-size: 30px;
+text-shadow: 16px 9px 4px rgb(0, 140, 255);
+}
+#lyrow .fouw {
+color: rgb(9, 255, 0);
+font-size: 60px;
+justify-content: center;
+font-weight: bold;
+display: flex !important;
+}
+#lyrow .five {
+font-weight: bolder;
+color: rgb(255, 0, 0);
+justify-content: center;
+display: flex !important;
+font-size: 20px;
+text-shadow: 16px 9px 4px rgb(0, 255, 21);
+}
+#lyrow .six {
+font-weight: bolder;
+color: rgb(255, 0, 0);
+justify-content: center;
+display: flex !important;
+font-size: 30px;
+}
+#lyrow .seven { 
+    color: red;
+    font-weight:900;
+    font-size:26px;
+    justify-content:center;
+    display:flex !important;
+    border:rgba(34, 255, 0, 1) dashed 3px;
+    outline:rgb(255, 117, 4) solid 18px;
+    border-radius:768px 768px 768px 768px;
+    border-bottom:rgba(255, 111, 0, 1) none 12px !important;
+    transition-timing-function:linear;
+    transition-duration:3s;
+    transition-delay:3s;
+    transition-property:all; 
+} 
